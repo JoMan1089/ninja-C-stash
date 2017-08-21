@@ -1,0 +1,6 @@
+Pounds to Kilograms Converter: 
+
+Please input pound value: 
+987.000000lb = 
+	To 3 Decimal Places: 447.619kg
+	In Scientific Notation: 4.476e+02kg

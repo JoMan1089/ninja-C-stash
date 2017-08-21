@@ -1,0 +1,300 @@
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Please Input a single character from "A - J"
+Enter "Menu" to display the Menu
+Enter "Exit" to Exit the program
+
+What do you want to do?
+Please Input a single character from "A - J"
+Enter "Menu" to display the Menu
+Enter "Exit" to Exit the program
+
+What do you want to do?
+Please Input a single character from "A - J"
+Enter "Menu" to display the Menu
+Enter "Exit" to Exit the program
+
+What do you want to do?
+Please Input a single character from "A - J"
+Enter "Menu" to display the Menu
+Enter "Exit" to Exit the program
+
+What do you want to do?
+Please Input a valid menu item (A - J)
+Enter "Exit" to Exit the program
+
+What do you want to do?
+Display a Vector in Different Coordinate Systems
+2D or 3D?
+You selected 2D
+Input a 2D Vector in Rectangular Coordinates
+You input the Vector <10.00, 20.00>
+Your Vector <10.00, 20.00> is <10.00, 20.00> in Rectangular Form
+Your Vector <10.00, 20.00> is <22.360680, 1.107149> in Polar Form
+
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Display a Vector in Different Coordinate Systems
+2D or 3D?
+You selected 3D
+Input a 3D Vector in Rectangular Coordinates
+You input the Vector <10.00, 20.00, 30.00>
+Your Vector <10.00, 20.00, 30.00> is <10.00, 20.00, 30.00> in Rectangular Form
+Your Vector <10.00, 20.00, 30.00> is <22.360680, 1.107149, 30.000000> in Cylindrical Form
+Your Vector <10.00, 20.00, 30.00> is <37.416574, 0.640522, 1.107149> in Spherical Form
+
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Display the Magnitude of a Vector
+2D or 3D?
+You selected 2D
+Input a 2D Vector in Rectangular Coordinates
+You input the Vector <10.00, 20.00>
+The Magnitude of your Vector is 22.360680
+
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Determine the Sum of Two Vectors
+2D or 3D?
+You selected 2D
+Vector 1:
+Input a 2D Vector in Rectangular Coordinates
+Vector 2:
+Input a 2D Vector in Rectangular Coordinates
+The sum of Vectors <10.00, 20.00> and <30.00, 40.00> is <40.00, 60.00>
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Determine the Difference of Two Vectors
+2D or 3D?
+You selected 2D
+Vector 1:
+Input a 2D Vector in Rectangular Coordinates
+Vector 2:
+Input a 2D Vector in Rectangular Coordinates
+The difference of Vectors <10.00, 20.00> and <30.00, 40.00> is <-20.00, -20.00>
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Determine the Unit Vector of the Given Vector
+2D or 3D?
+You selected 2D
+Input a 2D Vector in Rectangular Coordinates
+You input the Vector <10.00, 20.00>
+Its corresponding Unit Vector is <0.447214, 0.894427>
+
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Scale a Vector
+2D or 3D?
+You selected 2D
+Input a 2D Vector in Rectangular Coordinates
+You input the Vector <10.00, 20.00>
+Input Scale Factor
+The Scaled version is <33.30, 66.60>
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Determine Dot Product of two Vectors
+2D or 3D?
+You selected 2D
+Vector 1
+Input a 2D Vector in Rectangular Coordinates
+Vector 2
+Input a 2D Vector in Rectangular Coordinates
+The Dot Product of Vectors <10.00, 20.00> and <30.00, 40.00> is 1100.000000
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Determine the Angle Between two Vectors
+2D or 3D?
+You selected 2D
+Vector 1
+Input a 2D Vector in Rectangular Coordinates
+Vector 2
+Input a 2D Vector in Rectangular Coordinates
+The Angle Between <10.00, 20.00> and <30.00, 40.00> is 0.179853
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Determine the Cross Product of Two Vectors
+2D or 3D?
+You selected 2D
+Vector 1
+Input a 2D Vector in Rectangular Coordinates
+Vector 2
+Input a 2D Vector in Rectangular Coordinates
+The Cross Product of <10.00, 20.00> and <30.00, 40.00> is <0.00, 0.00, -200.00>
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Determine if a Given Free Body Diagram is in Equilibrium
+2D or 3D?
+You selected 2D
+How many Vectors are in the FBD?
+Vector 1
+Input a 2D Vector in Rectangular Coordinates
+Vector 2
+Input a 2D Vector in Rectangular Coordinates
+Vector 3
+Input a 2D Vector in Rectangular Coordinates
+The Resultant Force is <0.00, 0.00>
+The System is in Equilibrium
+
+MP1: Vectors and Vector Operations
+
+What do you want to do? Type "Exit" to terminate the program.
+[A] Display a Vector in Different Coordinate Systems
+[B] Display the Magnitude of a Vector
+[C] Determine the Sum of Two Vectors
+[D] Determine the Difference of Two Vectors
+[E] Determine the Unit Vector of a Given Vector
+[F] Scale a Vector
+[G] Determine the Dot Product of Two Vectors
+[H] Determine the Angle Between Two Vectors
+[I] Determine the Cross Product of Two Vectors
+[J] Determine if a Given Free Body Diagram is in Equilibrium
+
+What do you want to do?
+Please Input a single character from "A - J"
+Enter "Menu" to display the Menu
+Enter "Exit" to Exit the program
+
+What do you want to do?
